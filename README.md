@@ -1,2 +1,31 @@
 # HerobrineFishing-docs
-Documentation of an innovative minecraft fishing plugin
+# Summary
+
+- [Home](home.md)
+- [Installation](installation.md)
+- [Quick Start](quick-start.md)
+- [Fishing Gameplay](fishing-gameplay.md)
+- [Fish Fight](fish-fight.md)
+- [Fish Species](fish-species.md)
+- [Rarity & Types](rarity-and-types.md)
+- [Fish Conditions](fish-conditions.md)
+- [Weight](weight.md)
+- [Fishing Rods](fishing-rods.md)
+- [Baits](baits.md)
+- [Vanilla Enchantments](vanilla-enchantments.md)
+- [Collection](collection.md)
+- [Market](market.md)
+- [Shop](shop.md)
+- [WorldGuard](worldguard.md)
+- [Vault](vault.md)
+- [Commands](commands.md)
+- [Permissions](permissions.md)
+- [Configuration](configuration.md)
+- [Custom Fish](custom-fish.md)
+- [Custom Rod](custom-rod.md)
+- [Resource Pack](resource-pack.md)
+- [Admin Guide](admin-guide.md)
+- [Reset System](reset-system.md)
+- [Performance](performance.md)
+- [Troubleshooting](troubleshooting.md)
+
